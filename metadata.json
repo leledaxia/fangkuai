@@ -1,0 +1,5 @@
+{
+  "name": "Neon Tetris Blast",
+  "description": "A vibrant, modern Tetris clone featuring random colorful blocks and spectacular firework effects upon clearing lines.",
+  "requestFramePermissions": []
+}
